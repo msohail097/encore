@@ -1,0 +1,920 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4683ea5b-6107-4ef0-a99c-24c2a4867fe1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/1111.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/1111.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/CandleTypes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/CandleTypes/Catholic_Cross.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/CandleTypes/Catholic_Cross.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/CandleTypes/Empty_but.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/CandleTypes/Empty_but.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/CandleTypes/Generic_Candle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/CandleTypes/Generic_Candle.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/CandleTypes/Invite_A.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/CandleTypes/Invite_A.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/CandleTypes/Invite_B.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/CandleTypes/Invite_B.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/CandleTypes/Jewish_Star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/CandleTypes/Jewish_Star.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/CandleTypes/Msg_Cir_box.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/CandleTypes/Msg_Cir_box.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/CandleTypes/Top_band_Catholic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/CandleTypes/Top_band_Catholic.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/CandleTypes/Top_band_Generic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/CandleTypes/Top_band_Generic.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/CandleTypes/Top_band_Jewish.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/CandleTypes/Top_band_Jewish.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/CandleTypes/bg_catholic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/CandleTypes/bg_catholic.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/CandleTypes/bg_generic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/CandleTypes/bg_generic.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/CandleTypes/bg_yarzhiet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/CandleTypes/bg_yarzhiet.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/CandleTypes/button_Catholic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/CandleTypes/button_Catholic.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/CandleTypes/button_Generic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/CandleTypes/button_Generic.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/CandleTypes/button_Jewish.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/CandleTypes/button_Jewish.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/Dummy_Profilepic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/Dummy_Profilepic.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/Icons.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/Icons/Icon_144x144.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/Icons/Icon_144x144.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/Icons/Icon_192x192.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/Icons/Icon_192x192.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/Icons/Icon_320x180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/Icons/Icon_320x180.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/Icons/Icon_36x36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/Icons/Icon_36x36.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/Icons/Icon_48x48.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/Icons/Icon_48x48.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/Icons/Icon_72x72.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/Icons/Icon_72x72.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/Icons/Icon_96x96.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/Icons/Icon_96x96.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/Payment.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/Payment/AmericaExpress.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/Payment/AmericaExpress.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/Payment/Discover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/Payment/Discover.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/Payment/MasterCard.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/Payment/MasterCard.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/Payment/Visa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/Payment/Visa.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/BGs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/BGs/Bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/BGs/Bg.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/BGs/Rounded_box_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/BGs/Rounded_box_01.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/BGs/Rounded_box_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/BGs/Rounded_box_02.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/BGs/bg_box2_Jewish.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/BGs/bg_box2_Jewish.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/BGs/bg_box2_generic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/BGs/bg_box2_generic.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/BGs/bg_box2_yarzhiet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/BGs/bg_box2_yarzhiet.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/BGs/bg_box_Jewish.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/BGs/bg_box_Jewish.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/BGs/bg_box_generic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/BGs/bg_box_generic.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/BGs/bg_box_yarzhiet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/BGs/bg_box_yarzhiet.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/BGs/box04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/BGs/box04.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Candle_00000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Candle_00000.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Candle_Anim_07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Candle_Anim_07.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00000.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00006.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00012.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00018.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00024.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00030.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00030.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00036.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00036.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00042.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00042.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00048.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00048.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00054.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00054.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00060.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00060.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00066.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00066.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00072.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00072.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00078.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00078.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00084.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00084.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00090.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00090.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00096.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00096.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00102.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00102.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00108.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00108.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00114.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00114.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00120.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00120.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00126.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00126.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00132.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00132.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00138.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00138.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00144.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00150.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00156.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00156.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00162.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00162.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00168.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00168.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00174.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00174.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00180.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00180.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00186.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00186.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00192.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00198.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00198.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00204.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00204.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00210.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00210.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00216.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00216.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00222.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00222.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00228.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00228.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00234.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Fire/Light_1_00234.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00000.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00006.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00012.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00018.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00024.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00030.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00030.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00036.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00036.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00042.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00042.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00048.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00048.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00054.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00054.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00060.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00060.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00066.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00066.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00072.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00072.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00078.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00078.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00084.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00084.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00090.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00090.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00096.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00096.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00102.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00102.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00108.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00108.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00114.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00114.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00120.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00120.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00126.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00126.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00132.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00132.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00138.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00138.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00144.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00150.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00156.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00156.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00162.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00162.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00168.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00168.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00174.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00174.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00180.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00180.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00186.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00186.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00192.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00198.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00198.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00204.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00204.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00210.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00210.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00216.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00216.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00222.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00222.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00228.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00228.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00234.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Globe/Earth_00234.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/GlobeSpinAnim/GlobeSpin01.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/GlobeSpinAnim/GlobeSpin01.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/GlobeSpinAnim/GlobeSpin02.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Prayer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Candle/Prayer.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/Bell_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/Bell_icon.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/Cir_button_small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/Cir_button_small.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/Cir_photo_empty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/Cir_photo_empty.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/Delete_but 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/Delete_but 1.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/Delete_but.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/Delete_but.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/Edit_but 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/Edit_but 1.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/Edit_but.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/Edit_but.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/Fornt_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/Fornt_button.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/GlassCandle_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/GlassCandle_02.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/Home01_button.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/Home_button02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/Home_button02.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/Loading.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/Loading.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/Music_symbol.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/Music_symbol.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/Mute_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/Mute_01.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/Mute_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/Mute_02.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/Mute_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/Mute_03.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/Mute_04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/Mute_04.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/People.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/People.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/Prayer_book.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/Prayer_book.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/Speaker_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/Speaker_icon.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/bottle_candle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/bottle_candle.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/calander.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/calander.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/lock-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/lock-icon.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/msg_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/msg_arrow.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/msg_but.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/msg_but.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/speaker_but.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/Icons/speaker_but.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/UIElements.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/UIElements/Band.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/UIElements/Band.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/UIElements/Button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/UIElements/Button.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/UIElements/Check.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/UIElements/Check.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/UIElements/Cir_button_green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/UIElements/Cir_button_green.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/UIElements/Cir_button_grey.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/UIElements/Cir_button_grey.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/UIElements/Green_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/UIElements/Green_button.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/UIElements/Lock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/UIElements/Lock.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/UIElements/box.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/UIElements/box.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/UIElements/check_box_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/UIElements/check_box_01.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/UIElements/check_box_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/UIElements/check_box_02.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/UIElements/msg_box.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/UIElements/msg_box.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/UIElements/r_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/UIElements/r_button.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/UIElements/rw_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../candle/assets/images/_Common/UIElements/rw_button.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_order/android/app/src/main/res/drawable/splashscreen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_order/assets/events.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_order/assets/homefilled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_order/assets/homes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_order/assets/profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_order/assets/splashscreen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_order/lib/event states/good_state.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_order/lib/ui/home.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_order/lib/ui/profile.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/after merging lib folder.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/flare/EditBtn.flr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/fonts/QuickSand/Quicksand-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/fonts/QuickSand/Quicksand-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/fonts/QuickSand/Quicksand-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/fonts/QuickSand/Quicksand-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/fonts/QuickSand/Quicksand-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/fonts/Roboto/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/fonts/Roboto/Roboto-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/fonts/Roboto/Roboto-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/fonts/Roboto/Roboto-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/fonts/Roboto/Roboto-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/fonts/Roboto/Roboto-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/fonts/Roboto/Roboto-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/fonts/Roboto/Roboto-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/fonts/Roboto/Roboto-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/fonts/Roboto/Roboto-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/fonts/Roboto/Roboto-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/fonts/Roboto/Roboto-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/fonts/Roboto/Roboto-ThinItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/fonts/WorkSans/WorkSans-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/fonts/WorkSans/WorkSans-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/fonts/WorkSans/WorkSans-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/icons/2.0x/filter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/icons/2.0x/ic_avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/icons/2.0x/ic_avatar_white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/icons/2.0x/ic_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/icons/2.0x/ic_oder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/icons/2.0x/ic_oder_selected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/icons/2.0x/ic_rider.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/icons/2.0x/ic_secure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/icons/2.0x/ic_trademark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/icons/2.0x/newfilter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/icons/3.0x/filter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/icons/3.0x/ic_avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/icons/3.0x/ic_avatar_white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/icons/3.0x/ic_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/icons/3.0x/ic_oder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/icons/3.0x/ic_oder_selected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/icons/3.0x/ic_rider.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/icons/3.0x/ic_secure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/icons/3.0x/ic_trademark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/icons/3.0x/newfilter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/icons/filter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/icons/ic_avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/icons/ic_avatar_white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/icons/ic_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/icons/ic_oder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/icons/ic_oder_selected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/icons/ic_rider.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/icons/ic_secure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/icons/ic_trademark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/icons/lock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/icons/newfilter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/icons/password.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/2.0x/baby.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/2.0x/baby2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/2.0x/banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/2.0x/banner2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/2.0x/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/2.0x/bg2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/2.0x/bg3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/2.0x/doc_card.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/2.0x/dummy_prescription.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/2.0x/explore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/2.0x/f_profile_banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/2.0x/flu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/2.0x/headache.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/2.0x/hospital.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/2.0x/map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/2.0x/mchild.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/2.0x/neck_pain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/2.0x/panadol.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/2.0x/prom_banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/2.0x/symptoms.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/2.0x/woman_card.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/3.0x/baby.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/3.0x/baby2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/3.0x/banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/3.0x/banner2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/3.0x/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/3.0x/bg2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/3.0x/bg3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/3.0x/doc_card.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/3.0x/dummy_prescription.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/3.0x/explore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/3.0x/f_profile_banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/3.0x/flu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/3.0x/headache.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/3.0x/hospital.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/3.0x/map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/3.0x/mchild.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/3.0x/neck_pain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/3.0x/panadol.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/3.0x/prom_banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/3.0x/symptoms.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/3.0x/woman_card.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/abilify.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/anti.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/baby.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/baby2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/baby_care.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/banner2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/bg2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/bg3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/cough.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/dilaudid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/doc_card.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/dummy_prescription.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/explore.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/explore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/f_profile_banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/flu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/headache.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/hospital.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/mchild.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/mother_child.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/neck_pain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/panadol.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/prom_banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/symptoms.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/tycelon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/assets/images/woman_card.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/boon_web/assets/images/app.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/boon_web/lib/widgets/About_us.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/deepdive/assets/images/deepdive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/bindings.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/core/datamodels/admin_chat_history.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/core/datamodels/auth_datamodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/core/datamodels/bucket_datamodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/core/datamodels/cart_datamodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/core/datamodels/chat_history_datamodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/core/datamodels/chat_message.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/core/datamodels/medicine_datamodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/core/datamodels/message_datamodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/core/datamodels/mydocuments_datamodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/core/datamodels/order_datamodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/core/datamodels/pharmacy_datamodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/core/datamodels/placedorder_datamodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/core/datamodels/prescription_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/core/datamodels/product_datamodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/core/datamodels/profile_datamodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/core/datamodels/promotion_datamodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/core/datamodels/request_datamodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/core/datamodels/storage/auth_dbmodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/core/datamodels/storage/auth_dbmodel.g.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/core/datamodels/storage/cart_dbmodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/core/datamodels/storage/cart_dbmodel.g.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/core/datamodels/suggesstion_datamodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/core/datamodels/user_rating_datamodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/core/services/auth_service.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/core/services/cart_service.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/core/services/order_service.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/core/services/pharmacy_service.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/core/services/profile_service.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/core/services/promotion_services.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/core/services/search_service.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/core/viewmodels/admin_chat_view_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/core/viewmodels/auth_viewmodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/core/viewmodels/base_viewmodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/core/viewmodels/cart_viewmodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/core/viewmodels/chat_view_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/core/viewmodels/filter_viewmodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/core/viewmodels/location_viewmodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/core/viewmodels/map_viewmodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/core/viewmodels/nav_viewmodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/core/viewmodels/order_viewmodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/core/viewmodels/pharmacy_viewmodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/core/viewmodels/prescriptions_viewmodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/core/viewmodels/profile_viewmodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/core/viewmodels/promotion_viewmodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/core/viewmodels/review_viewmodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/core/viewmodels/search_viewmodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/generated_plugin_registrant.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/routes/routes.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/common/autocomplete_listview.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/common/bg_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/common/cart_button.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/common/circular_progress.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/common/drawer.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/common/fav_btn.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/common/form_field.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/common/review_builder.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/common/ripple/ripple_effect.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/common/snackbars.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/common/subpage_appbar.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/common/text.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/appointment/app_calender.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/appointment/appointment_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/auth/includes/login_profile.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/auth/includes/otp_verification.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/auth/includes/phone_verification.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/auth/includes/reset_password.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/auth/includes/signup_page_two.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/auth/login_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/auth/signup_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/cart/cart_details_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/cart/cart_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/cart/cart_payment_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/cart/widgets/address_dropdown.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/cart/widgets/cart_item.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/cart/widgets/item_quantity_total_counter.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/cart/widgets/new_cartcounter.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/cart/widgets/order_schedule.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/cart/widgets/order_total_builder.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/cart/widgets/price_update.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/chats/admin_chat.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/chats/social_single_chat.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/help/help_centre.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/home/home_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/home/widgets/common_symptoms.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/home/widgets/order_medicine.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/home/widgets/show_banners.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/home/widgets/show_symptoms.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/home/widgets/symptoms_detail_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/home/widgets/symptoms_home_listing.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/home/widgets/top_banner.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/home/widgets/top_doctors.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/home/widgets/top_hospitals.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/home/widgets/top_pharmacies.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/home/widgets/your_order.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/navigation/favourites.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/navigation/nav_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/order/bucket_details.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/order/includes/bottomorder_card.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/order/includes/image_viewer.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/order/includes/loader_line.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/order/order_detail_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/order/order_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/order/review_order.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/order/split_products.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/payment/payment_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/pharmacy/all_pharmacy.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/pharmacy/pharmacy_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/prescriptions/prescription_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/prescriptions/prescriptions_images.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/privacy policy/privacy_policy.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/privacy/privacy_policies.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/products/base_products_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/products/includes/medicine_listing.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/products/includes/upload_prescription.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/products/single_product_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/products/widgets/counter_cart.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/products/widgets/product_card.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/products/widgets/single_product_cart_counter.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/profile/includes/family_profile.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/profile/includes/profile_avatar.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/profile/includes/relation_avatar.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/profile/profile_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/profile/widgets/edit_btn.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/profile/widgets/top_options.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/profile/widgets/upload_documents.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/profile/widgets/upload_info.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/review.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/search/search_field.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/search/search_field_home.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/search/serach_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/startup/includes/intro_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/startup/includes/language_selection_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/startup/startup_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/ui/pages/startup/widgets/into_card.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/utils/api_header_manager.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/utils/colors.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/utils/consts/constants.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/utils/consts/db_keys.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/utils/consts/location_keys.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/utils/consts/product_pages_list.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/utils/consts/regexp.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/utils/consts/social_logins.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/utils/consts/static_constants.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/utils/consts/strings.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/utils/consts/typing_indicator.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/utils/consts/urls.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/utils/empty_box.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/utils/enums/CircularLoadingWidget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/utils/enums/confirmation_dialogue.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/utils/enums/upload_bucket.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/utils/enums/viewstate_enum.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/utils/format_phone.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/utils/in_app_notification.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/utils/json_handler.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/utils/localization/change_lang.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/utils/localization/lang_ar.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/utils/localization/lang_en.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/utils/localization/lang_keys.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/utils/localization/translations.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/utils/notifications_configs.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/utils/screen_config.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/utils/sizes.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/utils/spacer_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/utils/textEnums.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/utils/themes.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/lib/utils/user_address_detail_dialogue.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/new lib talha/lib.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/bindings.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/core/datamodels/admin_chat_history.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/core/datamodels/auth_datamodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/core/datamodels/bucket_datamodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/core/datamodels/cart_datamodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/core/datamodels/chat_history_datamodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/core/datamodels/chat_message.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/core/datamodels/medicine_datamodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/core/datamodels/message_datamodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/core/datamodels/mydocuments_datamodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/core/datamodels/order_datamodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/core/datamodels/pharmacy_datamodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/core/datamodels/placedorder_datamodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/core/datamodels/prescription_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/core/datamodels/product_datamodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/core/datamodels/profile_datamodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/core/datamodels/promotion_datamodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/core/datamodels/request_datamodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/core/datamodels/storage/auth_dbmodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/core/datamodels/storage/auth_dbmodel.g.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/core/datamodels/storage/cart_dbmodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/core/datamodels/storage/cart_dbmodel.g.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/core/datamodels/suggesstion_datamodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/core/datamodels/user_rating_datamodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/core/services/auth_service.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/core/services/cart_service.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/core/services/order_service.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/core/services/pharmacy_service.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/core/services/profile_service.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/core/services/promotion_services.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/core/services/search_service.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/core/viewmodels/admin_chat_view_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/core/viewmodels/auth_viewmodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/core/viewmodels/base_viewmodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/core/viewmodels/cart_viewmodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/core/viewmodels/chat_view_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/core/viewmodels/filter_viewmodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/core/viewmodels/location_viewmodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/core/viewmodels/map_viewmodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/core/viewmodels/nav_viewmodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/core/viewmodels/order_viewmodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/core/viewmodels/pharmacy_viewmodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/core/viewmodels/prescriptions_viewmodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/core/viewmodels/profile_viewmodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/core/viewmodels/promotion_viewmodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/core/viewmodels/review_viewmodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/core/viewmodels/search_viewmodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/generated_plugin_registrant.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/routes/routes.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/common/autocomplete_listview.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/common/bg_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/common/cart_button.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/common/circular_progress.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/common/drawer.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/common/fav_btn.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/common/form_field.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/common/review_builder.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/common/ripple/ripple_effect.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/common/snackbars.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/common/subpage_appbar.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/common/text.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/appointment/app_calender.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/appointment/appointment_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/auth/includes/login_profile.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/auth/includes/otp_verification.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/auth/includes/phone_verification.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/auth/includes/reset_password.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/auth/includes/signup_page_two.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/auth/login_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/auth/signup_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/cart/cart_details_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/cart/cart_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/cart/cart_payment_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/cart/widgets/address_dropdown.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/cart/widgets/cart_item.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/cart/widgets/item_quantity_total_counter.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/cart/widgets/new_cartcounter.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/cart/widgets/order_schedule.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/cart/widgets/order_total_builder.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/cart/widgets/price_update.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/chats/admin_chat.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/chats/social_single_chat.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/help/help_centre.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/home/home_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/home/widgets/common_symptoms.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/home/widgets/order_medicine.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/home/widgets/show_banners.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/home/widgets/show_symptoms.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/home/widgets/symptoms_detail_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/home/widgets/symptoms_home_listing.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/home/widgets/top_banner.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/home/widgets/top_doctors.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/home/widgets/top_hospitals.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/home/widgets/top_pharmacies.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/home/widgets/your_order.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/navigation/favourites.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/navigation/nav_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/order/bucket_details.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/order/includes/bottomorder_card.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/order/includes/image_viewer.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/order/includes/loader_line.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/order/order_detail_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/order/order_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/order/review_order.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/order/split_products.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/payment/payment_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/pharmacy/all_pharmacy.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/pharmacy/pharmacy_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/prescriptions/prescription_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/prescriptions/prescriptions_images.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/privacy policy/privacy_policy.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/privacy/privacy_policies.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/products/base_products_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/products/includes/medicine_listing.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/products/includes/upload_prescription.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/products/single_product_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/products/widgets/counter_cart.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/products/widgets/product_card.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/products/widgets/single_product_cart_counter.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/profile/includes/family_profile.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/profile/includes/profile_avatar.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/profile/includes/relation_avatar.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/profile/profile_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/profile/widgets/edit_btn.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/profile/widgets/top_options.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/profile/widgets/upload_documents.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/profile/widgets/upload_info.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/review.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/search/search_field.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/search/search_field_home.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/search/serach_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/startup/includes/intro_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/startup/includes/language_selection_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/startup/startup_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/ui/pages/startup/widgets/into_card.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/utils/api_header_manager.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/utils/colors.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/utils/consts/constants.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/utils/consts/db_keys.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/utils/consts/location_keys.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/utils/consts/product_pages_list.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/utils/consts/regexp.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/utils/consts/social_logins.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/utils/consts/static_constants.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/utils/consts/strings.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/utils/consts/typing_indicator.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/utils/consts/urls.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/utils/empty_box.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/utils/enums/CircularLoadingWidget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/utils/enums/confirmation_dialogue.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/utils/enums/upload_bucket.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/utils/enums/viewstate_enum.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/utils/format_phone.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/utils/in_app_notification.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/utils/json_handler.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/utils/localization/change_lang.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/utils/localization/lang_ar.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/utils/localization/lang_en.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/utils/localization/lang_keys.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/utils/localization/translations.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/utils/notifications_configs.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/utils/screen_config.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/utils/sizes.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/utils/spacer_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/utils/textEnums.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/utils/themes.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/utils/user_address_detail_dialogue.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[KWG7N16428001211]" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1wZeCmLIImW2IDHTsuVOBiuVgl8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../candle" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="dart.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\weatherApp\my_encore\lib\widgets" />
+      <recent name="D:\weatherApp\my_encore\assets" />
+      <recent name="D:\weatherApp\my_encore\assets\images" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4683ea5b-6107-4ef0-a99c-24c2a4867fe1" name="Default Changelist" comment="" />
+      <created>1628670412557</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628670412557</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="397" y="265" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1629115525903">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="397" y="265" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.680@0.0.1280.680" timestamp="1629115525903" />
+    <state x="93" y="93" width="1095" height="495" key="AVDManager" timestamp="1629103545878">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="AVDManager/0.0.1280.680@0.0.1280.680" timestamp="1629103545878" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1629059171467">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1629059171467" />
+    <state width="1236" height="66" key="GridCell.Tab.0.bottom" timestamp="1629113170014">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="125" key="GridCell.Tab.0.bottom/0.0.1280.639@0.0.1280.639" timestamp="1628887268408" />
+    <state width="1236" height="66" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1629113170014" />
+    <state width="1236" height="66" key="GridCell.Tab.0.center" timestamp="1629113170012">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="125" key="GridCell.Tab.0.center/0.0.1280.639@0.0.1280.639" timestamp="1628887268407" />
+    <state width="1236" height="66" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1629113170012" />
+    <state width="1236" height="66" key="GridCell.Tab.0.left" timestamp="1629113170012">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="125" key="GridCell.Tab.0.left/0.0.1280.639@0.0.1280.639" timestamp="1628887268407" />
+    <state width="1236" height="66" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1629113170012" />
+    <state width="1236" height="66" key="GridCell.Tab.0.right" timestamp="1629113170013">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="125" key="GridCell.Tab.0.right/0.0.1280.639@0.0.1280.639" timestamp="1628887268408" />
+    <state width="1236" height="66" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1629113170013" />
+    <state x="128" y="0" key="SettingsEditor" timestamp="1628672646462">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="128" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1628672646462" />
+    <state x="298" y="151" key="run.anything.popup" timestamp="1629056783188">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="298" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1629056783188" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1629041153712">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="0" width="672" height="637" key="search.everywhere.popup/0.0.1280.639@0.0.1280.639" timestamp="1628879945450" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1629041153712" />
+  </component>
+</project>
