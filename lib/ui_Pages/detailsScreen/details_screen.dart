@@ -5,10 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:intl/intl.dart';
 import 'package:my_encore/colors/colors.dart';
-import 'calendar.dart';
 
-import 'contact_us.dart';
-import 'news.dart';
 
 class homeScreen extends StatefulWidget {
 

@@ -7,14 +7,14 @@ import 'package:flutter/services.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:my_encore/colors/colors.dart';
 import 'package:my_encore/models/covid.dart';
-import '../ui_Pages/calculator.dart';
-import '../ui_Pages/details_screen.dart';
-import 'package:my_encore/widgets/button.dart';
-import 'package:my_encore/widgets/custonmAppbar.dart';
+import '../ui_Pages/calculatorScreen/calculator.dart';
+import '../ui_Pages/detailsScreen/details_screen.dart';
+import '../ui_Pages/commonWidgets/button.dart';
+import '../ui_Pages/commonWidgets/custonmAppbar.dart';
 
-import '../ui_Pages/calendar.dart';
-import '../ui_Pages/contact_us.dart';
-import '../ui_Pages/news.dart';
+import '../ui_Pages/calnedarScreen/calendar.dart';
+import '../ui_Pages/contactScreen/contact_us.dart';
+import '../ui_Pages/newsScreen/news.dart';
 
 class appbarScreen extends StatefulWidget {
 

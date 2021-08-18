@@ -1,16 +1,13 @@
 
-import 'dart:convert';
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:my_encore/colors/colors.dart';
-import 'package:my_encore/models/covid.dart';
-import 'package:my_encore/widgets/button.dart';
+import 'package:my_encore/ui_Pages/commonWidgets/general.dart';
+import 'package:my_encore/ui_Pages/newsScreen/widgets/test_article.dart';
+import '../commonWidgets/button.dart';
 
-import 'calendar.dart';
-import 'contact_us.dart';
 
 class newsScreen extends StatefulWidget {
 
@@ -37,81 +34,7 @@ class _MyHomePageState extends State<newsScreen> {
                   .of(context)
                   .size
                   .height * 0.050,),
-              Center(
-                child: Container(
-                  height: MediaQuery
-                      .of(context)
-                      .size
-                      .height * 0.080,
-                  width: MediaQuery
-                      .of(context)
-                      .size
-                      .width * 0.90,
-                  decoration: BoxDecoration(
-                    borderRadius: BorderRadius.circular(12),
-                    border: Border.all(
-                      color: Colors.blue, //                   <--- border color
-                      width: 2.0,
-                    ),
-                  ),
-                  child: Row(
-                      mainAxisAlignment: MainAxisAlignment.start,
-                      crossAxisAlignment: CrossAxisAlignment.center,
-                      children: [
-                        Padding(
-                          padding: const EdgeInsets.fromLTRB(15, 0, 0, 0),
-                          child: Text('General News',
-                              style: GoogleFonts.poppins(
-                                textStyle: TextStyle(
-                                    fontSize: 13 *
-                                        MediaQuery.textScaleFactorOf(
-                                            context),
-                                    fontWeight: FontWeight.w500,
-                                    color: AppColors.kBlue
-                                ),
-
-                              )),
-                        ),
-
-
-                        Padding(
-                          padding: const EdgeInsets.fromLTRB(160, 0, 0, 0),
-                          child:
-                          InkWell(
-                            onTap: () {
-
-                            },
-                            child: Container(
-                                height: MediaQuery
-                                    .of(context)
-                                    .size
-                                    .height * 0.060,
-                                width: MediaQuery
-                                    .of(context)
-                                    .size
-                                    .width * 0.13,
-                                decoration: BoxDecoration(
-                                  //color: AppColors.kBlue,
-                                  borderRadius: BorderRadius.only(
-                                      topLeft: Radius.circular(7),
-                                      topRight: Radius.circular(7),
-                                      bottomLeft: Radius.circular(7),
-                                      bottomRight: Radius.circular(7)
-                                  ),
-                                ),
-                                child:
-                                Icon(Icons.keyboard_arrow_down,color: AppColors.kBlue,)
-                              // Image(image: new AssetImage(
-                              //     'assets/images/search.png'),
-                              // ),
-
-                            ),
-                          ),
-                        ),
-
-                      ]),
-                ),
-              ),
+            general(title: 'General News'),
 
 
               Padding(
@@ -271,73 +194,7 @@ class _MyHomePageState extends State<newsScreen> {
                               scrollDirection: Axis.vertical,
                               itemCount:3,
                               itemBuilder: (BuildContext context, int index) {
-                                return Container(
-                                  height: MediaQuery
-                                      .of(context)
-                                      .size
-                                      .height * 0.12,
-                                  // width: MediaQuery.of(context).size.width*0.80,
-                                  decoration: BoxDecoration(
-                                      color: Colors.white,
-                                      borderRadius: BorderRadius.only(
-
-                                      ),
-                                      boxShadow: [
-                                        BoxShadow(
-                                          color: Colors.grey.withOpacity(0.5),
-                                          spreadRadius: 1,
-                                          blurRadius: 3,
-                                          offset: Offset(0,
-                                              1), // changes position of shadow
-                                        ),
-                                      ]),
-                                  child:
-                                  Column
-                                    (
-                                      mainAxisAlignment: MainAxisAlignment
-                                          .spaceEvenly,
-                                      crossAxisAlignment: CrossAxisAlignment
-                                          .center,
-
-                                      children: [
-
-                                        Row(
-                                            mainAxisAlignment: MainAxisAlignment
-                                                .start,
-                                            crossAxisAlignment: CrossAxisAlignment
-                                                .center,
-
-                                            children: [
-
-                                              Padding(
-                                                padding: const EdgeInsets.fromLTRB(15, 0,0,0),
-                                                child: Image(image: AssetImage('assets/1.png'),
-                                                  height: 40,
-                                                  width: 40,),
-                                              ),
-
-
-                                              Padding(
-                                                padding: const EdgeInsets.fromLTRB(15, 0,0,0),
-                                                child: Text('This is Test Article',
-                                                    style: GoogleFonts.poppins(
-                                                      textStyle: TextStyle(
-                                                          fontSize: 15.0,
-                                                          fontWeight: FontWeight
-                                                              .w500),
-                                                    )),
-                                              ),
-
-
-
-
-                                            ]),
-
-
-
-                                      ]),
-
-                                );
+                                return testArticle();
                               }),
 
 

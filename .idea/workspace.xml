@@ -346,6 +346,13 @@
       <change afterPath="$PROJECT_DIR$/../first_order/lib/event states/good_state.dart" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../first_order/lib/ui/home.dart" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../first_order/lib/ui/profile.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_encore/assets/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_encore/assets/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_encore/assets/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_encore/assets/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my_encore/assets/qr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/ui_Pages/calculatorScreen/calculator.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/ui_Pages/calnedarScreen/calendar.dart" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../web/after merging lib folder.zip" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../web/assets/flare/EditBtn.flr" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../web/assets/fonts/QuickSand/Quicksand-Bold.ttf" afterDir="false" />
@@ -814,13 +821,27 @@
       <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/utils/textEnums.dart" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/utils/themes.dart" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/utils/user_address_detail_dialogue.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/calculator.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/calendar.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/channels.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/channelScreen/channels.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/contact_us.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/contactScreen/contact_us.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/covidTest.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/covidScreen/covidTest.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/details_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/detailsScreen/details_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/login_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/loginScreen/login_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/news.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/newsScreen/news.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/widgets/appbar.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/appBar/appbar.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/widgets/button.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/commonWidgets/button.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/widgets/custonmAppbar.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/commonWidgets/custonmAppbar.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[KWG7N16428001211]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Nexus_4_API_27_2]" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -843,7 +864,7 @@
     <property name="dart.analysis.tool.window.force.activate" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../candle" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -852,9 +873,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\weatherApp\my_encore\lib\widgets" />
-      <recent name="D:\weatherApp\my_encore\assets" />
-      <recent name="D:\weatherApp\my_encore\assets\images" />
+      <recent name="D:\weatherApp\new encore\lib\ui_Pages\detailsScreen" />
+      <recent name="D:\weatherApp\new encore\lib\ui_Pages\contactScreen" />
+      <recent name="D:\weatherApp\new encore\lib\ui_Pages\channelScreen" />
+      <recent name="D:\weatherApp\new encore\lib\ui_Pages\loginScreen" />
+      <recent name="D:\weatherApp\new encore\lib\ui_Pages\loginScreen " />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -875,34 +898,34 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="397" y="265" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.680@0.0.1280.680" timestamp="1629115525903" />
-    <state x="93" y="93" width="1095" height="495" key="AVDManager" timestamp="1629103545878">
+    <state x="93" y="93" width="1095" height="495" key="AVDManager" timestamp="1629283786275">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="93" y="93" width="1095" height="495" key="AVDManager/0.0.1280.680@0.0.1280.680" timestamp="1629103545878" />
+    <state x="93" y="93" width="1095" height="495" key="AVDManager/0.0.1280.680@0.0.1280.680" timestamp="1629283786275" />
     <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1629059171467">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1629059171467" />
-    <state width="1236" height="66" key="GridCell.Tab.0.bottom" timestamp="1629113170014">
+    <state width="1236" height="66" key="GridCell.Tab.0.bottom" timestamp="1629284452174">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1236" height="125" key="GridCell.Tab.0.bottom/0.0.1280.639@0.0.1280.639" timestamp="1628887268408" />
-    <state width="1236" height="66" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1629113170014" />
-    <state width="1236" height="66" key="GridCell.Tab.0.center" timestamp="1629113170012">
+    <state width="1236" height="66" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1629284452174" />
+    <state width="1236" height="66" key="GridCell.Tab.0.center" timestamp="1629284452173">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1236" height="125" key="GridCell.Tab.0.center/0.0.1280.639@0.0.1280.639" timestamp="1628887268407" />
-    <state width="1236" height="66" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1629113170012" />
-    <state width="1236" height="66" key="GridCell.Tab.0.left" timestamp="1629113170012">
+    <state width="1236" height="66" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1629284452173" />
+    <state width="1236" height="66" key="GridCell.Tab.0.left" timestamp="1629284452172">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1236" height="125" key="GridCell.Tab.0.left/0.0.1280.639@0.0.1280.639" timestamp="1628887268407" />
-    <state width="1236" height="66" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1629113170012" />
-    <state width="1236" height="66" key="GridCell.Tab.0.right" timestamp="1629113170013">
+    <state width="1236" height="66" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1629284452172" />
+    <state width="1236" height="66" key="GridCell.Tab.0.right" timestamp="1629284452173">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1236" height="125" key="GridCell.Tab.0.right/0.0.1280.639@0.0.1280.639" timestamp="1628887268408" />
-    <state width="1236" height="66" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1629113170013" />
+    <state width="1236" height="66" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1629284452173" />
     <state x="128" y="0" key="SettingsEditor" timestamp="1628672646462">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

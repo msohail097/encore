@@ -3,8 +3,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'package:my_encore/appBar/appbar.dart';
 import 'package:my_encore/colors/colors.dart';
-import '../widgets/appbar.dart';
 
 class loginScreen extends StatefulWidget {
 
