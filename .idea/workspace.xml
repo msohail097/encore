@@ -819,31 +819,41 @@
       <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/utils/textEnums.dart" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/utils/themes.dart" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/utils/user_address_detail_dialogue.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/appBar/appbar.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/appBar/appbar.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/drawable-v21/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/calculator_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/calculator_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/calendar_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/calendar_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/channels_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/channels_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/contactuUs_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/contactus_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/covidTest_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/covidTest_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/details_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/details_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/login_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/login_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/news_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/news_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/widgets/custom_Button.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/widgets/custom_button.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/widgets/custom_CalendarWdiget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/widgets/custom_calendarwdiget.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/widgets/custom_CovidTest.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/widgets/custom_covidtest.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/widgets/custom_Search.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/widgets/custom_search.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/widgets/custom_Temperature.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/widgets/custom_temperature.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/widgets/custom_TestArticle.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/widgets/custom_testarticle.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/widgets/custonm_Appbar.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/widgets/custonm_appbar.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Nexus_4_API_27_2]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[KWG7N16428001211]" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -874,6 +884,10 @@
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\weatherApp\new encore\android\app\src\main\res\values" />
+      <recent name="D:\weatherApp\new encore\android\app\src\main\res\drawable" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\weatherApp\new encore\lib\ui_Pages" />
       <recent name="D:\weatherApp\new encore\lib\ui_Pages\widgets" />
@@ -904,30 +918,30 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="93" y="93" width="1095" height="495" key="AVDManager/0.0.1280.680@0.0.1280.680" timestamp="1629299280480" />
-    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1629289033150">
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1629301695142">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1629289033150" />
-    <state width="1236" height="92" key="GridCell.Tab.0.bottom" timestamp="1629295271615">
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1629301695142" />
+    <state width="1236" height="163" key="GridCell.Tab.0.bottom" timestamp="1629303591106">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1236" height="125" key="GridCell.Tab.0.bottom/0.0.1280.639@0.0.1280.639" timestamp="1628887268408" />
-    <state width="1236" height="92" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1629295271615" />
-    <state width="1236" height="92" key="GridCell.Tab.0.center" timestamp="1629295271615">
+    <state width="1236" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1629303591106" />
+    <state width="1236" height="163" key="GridCell.Tab.0.center" timestamp="1629303591106">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1236" height="125" key="GridCell.Tab.0.center/0.0.1280.639@0.0.1280.639" timestamp="1628887268407" />
-    <state width="1236" height="92" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1629295271615" />
-    <state width="1236" height="92" key="GridCell.Tab.0.left" timestamp="1629295271614">
+    <state width="1236" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1629303591106" />
+    <state width="1236" height="163" key="GridCell.Tab.0.left" timestamp="1629303591106">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1236" height="125" key="GridCell.Tab.0.left/0.0.1280.639@0.0.1280.639" timestamp="1628887268407" />
-    <state width="1236" height="92" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1629295271614" />
-    <state width="1236" height="92" key="GridCell.Tab.0.right" timestamp="1629295271615">
+    <state width="1236" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1629303591106" />
+    <state width="1236" height="163" key="GridCell.Tab.0.right" timestamp="1629303591106">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1236" height="125" key="GridCell.Tab.0.right/0.0.1280.639@0.0.1280.639" timestamp="1628887268408" />
-    <state width="1236" height="92" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1629295271615" />
+    <state width="1236" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1629303591106" />
     <state x="128" y="0" key="SettingsEditor" timestamp="1628672646462">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
