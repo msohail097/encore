@@ -8,16 +8,16 @@ import 'package:flutter/services.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:my_encore/colors/colors.dart';
 import 'package:my_encore/models/covid.dart';
-import 'package:my_encore/ui_Pages/widgets/custom_Button.dart';
-import 'widgets/custom_CovidTest.dart';
+import 'package:my_encore/ui_Pages/widgets/custom_button.dart';
+import 'widgets/custom_covidtest.dart';
 
-class covidScreen extends StatefulWidget {
+class CovidScreen extends StatefulWidget {
 
   @override
   _MyHomePageState createState() => _MyHomePageState();
 }
 
-class _MyHomePageState extends State<covidScreen> {
+class _MyHomePageState extends State<CovidScreen> {
 
   int _selectedIndex;
   List<bool> _list = [true,false];

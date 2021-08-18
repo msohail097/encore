@@ -819,32 +819,31 @@
       <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/utils/textEnums.dart" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/utils/themes.dart" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../web/patient app lib before merging 2nd time/utils/user_address_detail_dialogue.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/appBar/appbar.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/appBar/appbar.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/calculatorScreen/calculator.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/calculator_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/calculatorScreen/widgets/enter_temperature.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/widgets/custom_Temperature.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/calnedarScreen/calendar.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/calendar_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/calnedarScreen/widget/calendarwdiget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/widgets/custom_CalendarWdiget.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/channelScreen/channels.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/channels_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/commonWidgets/button.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/widgets/custom_Button.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/commonWidgets/custonmAppbar.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/widgets/custonm_Appbar.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/commonWidgets/general.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/widgets/custom_Search.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/contactScreen/contact_us.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/contactuUs_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/covidScreen/covidTest.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/covidTest_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/covidScreen/widgets/covid_test_yes_no.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/widgets/custom_CovidTest.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/detailsScreen/details_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/details_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/loginScreen/login_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/login_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/newsScreen/news.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/news_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/newsScreen/widgets/test_article.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/widgets/custom_TestArticle.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/calculator_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/calculator_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/calendar_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/calendar_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/channels_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/channels_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/contactuUs_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/contactus_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/covidTest_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/covidTest_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/details_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/details_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/login_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/login_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/news_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/news_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/widgets/custom_Button.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/widgets/custom_button.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/widgets/custom_CalendarWdiget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/widgets/custom_calendarwdiget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/widgets/custom_CovidTest.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/widgets/custom_covidtest.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/widgets/custom_Search.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/widgets/custom_search.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/widgets/custom_Temperature.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/widgets/custom_temperature.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/widgets/custom_TestArticle.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/widgets/custom_testarticle.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ui_Pages/widgets/custonm_Appbar.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui_Pages/widgets/custonm_appbar.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[KWG7N16428001211]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Nexus_4_API_27_2]" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -901,10 +900,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="397" y="265" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.680@0.0.1280.680" timestamp="1629115525903" />
-    <state x="93" y="93" width="1095" height="495" key="AVDManager" timestamp="1629283786275">
+    <state x="93" y="93" width="1095" height="495" key="AVDManager" timestamp="1629299280480">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="93" y="93" width="1095" height="495" key="AVDManager/0.0.1280.680@0.0.1280.680" timestamp="1629283786275" />
+    <state x="93" y="93" width="1095" height="495" key="AVDManager/0.0.1280.680@0.0.1280.680" timestamp="1629299280480" />
     <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1629289033150">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

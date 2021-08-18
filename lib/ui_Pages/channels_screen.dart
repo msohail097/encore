@@ -7,16 +7,16 @@ import 'package:flutter/services.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:my_encore/colors/colors.dart';
 import 'package:my_encore/models/names.dart';
-import 'package:my_encore/ui_Pages/widgets/custom_Search.dart';
+import 'package:my_encore/ui_Pages/widgets/custom_search.dart';
 
 
-class channelScreen extends StatefulWidget {
+class ChannelScreen extends StatefulWidget {
 
   @override
   _MyHomePageState createState() => _MyHomePageState();
 }
 
-class _MyHomePageState extends State<channelScreen> {
+class _MyHomePageState extends State<ChannelScreen> {
 
   int _selectedIndex;
 

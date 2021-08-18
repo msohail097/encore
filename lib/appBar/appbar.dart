@@ -3,13 +3,13 @@ import 'dart:convert';
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:my_encore/ui_Pages/widgets/custonm_Appbar.dart';
+import 'package:my_encore/ui_Pages/widgets/custonm_appbar.dart';
 
 import '../ui_Pages/details_screen.dart';
 
 
 import '../ui_Pages/calendar_screen.dart';
-import '../ui_Pages/contactuUs_screen.dart';
+import '../ui_Pages/contactus_screen.dart';
 import '../ui_Pages/news_screen.dart';
 
 class appbarScreen extends StatefulWidget {
@@ -34,10 +34,10 @@ class _MyHomePageState extends State<appbarScreen> with TickerProviderStateMixin
         appBar:CustomAppBar(
           title: 'Home',
           topTabs: [
-            {'Details':homeScreen()},
-            {'News':   newsScreen()},
-            {'Calendar':calendarScreen()},
-            {'Contact Us':contactScreen()},
+            {'Details':HomeScreen()},
+            {'News':   NewsScreen()},
+            {'Calendar':CalendarScreen()},
+            {'Contact Us':ContactScreen()},
 
 
           ],

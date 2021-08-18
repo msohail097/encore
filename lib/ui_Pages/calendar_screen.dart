@@ -1,16 +1,16 @@
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'widgets/custom_CalendarWdiget.dart';
+import 'widgets/custom_calendarwdiget.dart';
 
 
-class calendarScreen extends StatefulWidget {
+class CalendarScreen extends StatefulWidget {
 
   @override
   _MyHomePageState createState() => _MyHomePageState();
 }
 
-class _MyHomePageState extends State<calendarScreen> {
+class _MyHomePageState extends State<CalendarScreen> {
 
   @override
   Widget build(BuildContext context) {

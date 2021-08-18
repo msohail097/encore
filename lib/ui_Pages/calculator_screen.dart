@@ -5,16 +5,16 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:my_encore/colors/colors.dart';
-import 'package:my_encore/ui_Pages/widgets/custom_Button.dart';
-import 'widgets/custom_Temperature.dart';
+import 'package:my_encore/ui_Pages/widgets/custom_button.dart';
+import 'widgets/custom_temperature.dart';
 
-class calculatorScreen extends StatefulWidget {
+class CalculatorScreen extends StatefulWidget {
 
   @override
   _MyHomePageState createState() => _MyHomePageState();
 }
 
-class _MyHomePageState extends State<calculatorScreen> {
+class _MyHomePageState extends State<CalculatorScreen> {
 
   List<bool> _list = [true,false];
 

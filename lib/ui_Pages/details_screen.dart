@@ -7,13 +7,13 @@ import 'package:intl/intl.dart';
 import 'package:my_encore/colors/colors.dart';
 
 
-class homeScreen extends StatefulWidget {
+class HomeScreen extends StatefulWidget {
 
   @override
   _MyHomePageState createState() => _MyHomePageState();
 }
 
-class _MyHomePageState extends State<homeScreen> {
+class _MyHomePageState extends State<HomeScreen> {
 
   DateTime now = DateTime.now();
 

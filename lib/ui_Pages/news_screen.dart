@@ -4,18 +4,18 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:my_encore/colors/colors.dart';
-import 'package:my_encore/ui_Pages/widgets/custom_Button.dart';
-import 'package:my_encore/ui_Pages/widgets/custom_Search.dart';
-import 'widgets/custom_TestArticle.dart';
+import 'package:my_encore/ui_Pages/widgets/custom_button.dart';
+import 'package:my_encore/ui_Pages/widgets/custom_search.dart';
+import 'widgets/custom_testarticle.dart';
 
 
-class newsScreen extends StatefulWidget {
+class NewsScreen extends StatefulWidget {
 
   @override
   _MyHomePageState createState() => _MyHomePageState();
 }
 
-class _MyHomePageState extends State<newsScreen> {
+class _MyHomePageState extends State<NewsScreen> {
 
 
 

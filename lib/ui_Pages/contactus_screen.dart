@@ -5,15 +5,15 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:my_encore/colors/colors.dart';
-import 'package:my_encore/ui_Pages/widgets/custom_Button.dart';
+import 'package:my_encore/ui_Pages/widgets/custom_button.dart';
 
-class contactScreen extends StatefulWidget {
+class ContactScreen extends StatefulWidget {
 
   @override
   _MyHomePageState createState() => _MyHomePageState();
 }
 
-class _MyHomePageState extends State<contactScreen> {
+class _MyHomePageState extends State<ContactScreen> {
 
   @override
   Widget build(BuildContext context) {

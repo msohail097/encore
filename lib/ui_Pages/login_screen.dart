@@ -6,13 +6,13 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:my_encore/appBar/appbar.dart';
 import 'package:my_encore/colors/colors.dart';
 
-class loginScreen extends StatefulWidget {
+class LoginScreen extends StatefulWidget {
 
   @override
   _MyHomePageState createState() => _MyHomePageState();
 }
 
-class _MyHomePageState extends State<loginScreen> {
+class _MyHomePageState extends State<LoginScreen> {
 
 
   @override
