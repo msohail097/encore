@@ -8,8 +8,8 @@ import 'package:flutter/services.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:my_encore/colors/colors.dart';
 import 'package:my_encore/models/covid.dart';
-import 'package:my_encore/ui_Pages/covidScreen/widgets/covid_test_yes_no.dart';
-import '../commonWidgets/button.dart';
+import 'package:my_encore/ui_Pages/widgets/custom_Button.dart';
+import 'widgets/custom_CovidTest.dart';
 
 class covidScreen extends StatefulWidget {
 
@@ -99,7 +99,7 @@ class _MyHomePageState extends State<covidScreen> {
                    itemBuilder: (BuildContext context, int index) {
                      return Padding(
                        padding: const EdgeInsets.fromLTRB(10, 5, 10, 5),
-                       child: covid(title: snapshot.data[index].name,),
+                       child: CustomCovidTest(title: snapshot.data[index].name,),
                      );
                    });
                  }}),
@@ -116,7 +116,7 @@ class _MyHomePageState extends State<covidScreen> {
                   onTap: (){
 
                   },
-                  child: button(title: 'Stuur')),
+                  child: CustomButton(title: 'Stuur')),
 
               SizedBox(height: MediaQuery
                   .of(context)

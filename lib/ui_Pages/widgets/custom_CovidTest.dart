@@ -4,17 +4,17 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:my_encore/colors/colors.dart';
 
-class covid extends StatefulWidget {
+class CustomCovidTest extends StatefulWidget {
 
 
   final String title;
-  covid({@required this.title});
+  CustomCovidTest({@required this.title});
 
   @override
   _NewUserPageState createState() => _NewUserPageState();
 }
 
-class _NewUserPageState extends State<covid> {
+class _NewUserPageState extends State<CustomCovidTest> {
   List<bool> _list = [true,false];
 
   @override

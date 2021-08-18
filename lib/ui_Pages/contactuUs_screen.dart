@@ -5,7 +5,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:my_encore/colors/colors.dart';
-import '../commonWidgets/button.dart';
+import 'package:my_encore/ui_Pages/widgets/custom_Button.dart';
 
 class contactScreen extends StatefulWidget {
 
@@ -299,7 +299,7 @@ class _MyHomePageState extends State<contactScreen> {
               onTap: (){
 
               },
-              child: button( title: 'Update',),
+              child: CustomButton( title: 'Update',),
             ),
 
 

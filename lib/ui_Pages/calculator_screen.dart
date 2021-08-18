@@ -1,15 +1,12 @@
 
 
-import 'dart:convert';
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:my_encore/colors/colors.dart';
-import 'package:my_encore/models/covid.dart';
-import 'package:my_encore/ui_Pages/calculatorScreen/widgets/enter_temperature.dart';
-import '../commonWidgets/button.dart';
+import 'package:my_encore/ui_Pages/widgets/custom_Button.dart';
+import 'widgets/custom_Temperature.dart';
 
 class calculatorScreen extends StatefulWidget {
 
@@ -115,7 +112,7 @@ class _MyHomePageState extends State<calculatorScreen> {
                     _list[0] = !_list[0];
                     _list[1] = false;
                   },
-                  child: enterTemperature(),
+                  child: CustomTemperature(),
                 ),
               ),
 
@@ -133,7 +130,7 @@ class _MyHomePageState extends State<calculatorScreen> {
                   onTap: (){
 
                   },
-                  child: button(title: 'Done')),
+                  child: CustomButton(title: 'Done')),
 
 
             ],

@@ -4,17 +4,17 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:my_encore/colors/colors.dart';
 
-class general extends StatefulWidget {
+class CustomSearch extends StatefulWidget {
 
 
   final String title;
-  general({@required this.title});
+  CustomSearch({@required this.title});
 
   @override
   _NewUserPageState createState() => _NewUserPageState();
 }
 
-class _NewUserPageState extends State<general> {
+class _NewUserPageState extends State<CustomSearch> {
 
   TextEditingController searchController = TextEditingController();
 

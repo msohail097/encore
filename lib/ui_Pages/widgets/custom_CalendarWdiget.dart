@@ -4,17 +4,17 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:my_encore/colors/colors.dart';
 
-class calendar extends StatefulWidget {
+class CustomCalendar extends StatefulWidget {
 
 
   final String title;
-  calendar({@required this.title});
+  CustomCalendar({@required this.title});
 
   @override
   _NewUserPageState createState() => _NewUserPageState();
 }
 
-class _NewUserPageState extends State<calendar> {
+class _NewUserPageState extends State<CustomCalendar> {
 
   @override
   Widget build(BuildContext context) {

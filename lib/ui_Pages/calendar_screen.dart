@@ -1,7 +1,7 @@
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'widget/calendarwdiget.dart';
+import 'widgets/custom_CalendarWdiget.dart';
 
 
 class calendarScreen extends StatefulWidget {
@@ -35,7 +35,7 @@ class _MyHomePageState extends State<calendarScreen> {
                             itemBuilder: (BuildContext context, int index) {
                               return Padding(
                                 padding: const EdgeInsets.fromLTRB(10, 5, 10, 5),
-                                child: calendar(title:'Loren Ispam'),
+                                child: CustomCalendar(title:'Loren Ispam'),
                               );
                             }),
 

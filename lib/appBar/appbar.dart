@@ -3,18 +3,14 @@ import 'dart:convert';
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
-import 'package:google_fonts/google_fonts.dart';
-import 'package:my_encore/colors/colors.dart';
-import 'package:my_encore/models/covid.dart';
-import '../ui_Pages/calculatorScreen/calculator.dart';
-import '../ui_Pages/detailsScreen/details_screen.dart';
-import '../ui_Pages/commonWidgets/button.dart';
-import '../ui_Pages/commonWidgets/custonmAppbar.dart';
+import 'package:my_encore/ui_Pages/widgets/custonm_Appbar.dart';
 
-import '../ui_Pages/calnedarScreen/calendar.dart';
-import '../ui_Pages/contactScreen/contact_us.dart';
-import '../ui_Pages/newsScreen/news.dart';
+import '../ui_Pages/details_screen.dart';
+
+
+import '../ui_Pages/calendar_screen.dart';
+import '../ui_Pages/contactuUs_screen.dart';
+import '../ui_Pages/news_screen.dart';
 
 class appbarScreen extends StatefulWidget {
 

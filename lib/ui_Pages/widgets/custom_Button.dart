@@ -4,17 +4,18 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:my_encore/colors/colors.dart';
 
-class button extends StatefulWidget {
+class CustomButton extends StatefulWidget {
+
 
 
   final String title;
-  button({@required this.title});
+  CustomButton({@required this.title});
 
   @override
   _NewUserPageState createState() => _NewUserPageState();
 }
 
-class _NewUserPageState extends State<button> {
+class _NewUserPageState extends State<CustomButton> {
 
   @override
   Widget build(BuildContext context) {

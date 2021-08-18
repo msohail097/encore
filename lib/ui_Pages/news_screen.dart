@@ -4,9 +4,9 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:my_encore/colors/colors.dart';
-import 'package:my_encore/ui_Pages/commonWidgets/general.dart';
-import 'package:my_encore/ui_Pages/newsScreen/widgets/test_article.dart';
-import '../commonWidgets/button.dart';
+import 'package:my_encore/ui_Pages/widgets/custom_Button.dart';
+import 'package:my_encore/ui_Pages/widgets/custom_Search.dart';
+import 'widgets/custom_TestArticle.dart';
 
 
 class newsScreen extends StatefulWidget {
@@ -34,7 +34,7 @@ class _MyHomePageState extends State<newsScreen> {
                   .of(context)
                   .size
                   .height * 0.050,),
-            general(title: 'General News'),
+            CustomSearch(title: 'General News'),
 
 
               Padding(
@@ -194,7 +194,7 @@ class _MyHomePageState extends State<newsScreen> {
                               scrollDirection: Axis.vertical,
                               itemCount:3,
                               itemBuilder: (BuildContext context, int index) {
-                                return testArticle();
+                                return CustomTestArticle();
                               }),
 
 
@@ -211,7 +211,7 @@ class _MyHomePageState extends State<newsScreen> {
                     onTap: (){
 
                     },
-                    child: button( title: 'Add Articles')
+                    child: CustomButton( title: 'Add Articles')
                   ),
                 ),
               ),

@@ -7,8 +7,8 @@ import 'package:flutter/services.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:my_encore/colors/colors.dart';
 import 'package:my_encore/models/names.dart';
+import 'package:my_encore/ui_Pages/widgets/custom_Search.dart';
 
-import '../commonWidgets/general.dart';
 
 class channelScreen extends StatefulWidget {
 
@@ -65,7 +65,7 @@ class _MyHomePageState extends State<channelScreen> {
                   .size
                   .height * 0.050,),
 
-              general(title: 'Search Channels',),
+              CustomSearch(title: 'Search Channels',),
 
               SizedBox(height: MediaQuery
                   .of(context)

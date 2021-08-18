@@ -5,13 +5,13 @@ import 'package:flutter/services.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:my_encore/colors/colors.dart';
 
-class enterTemperature extends StatefulWidget {
+class CustomTemperature extends StatefulWidget {
 
   @override
   _NewUserPageState createState() => _NewUserPageState();
 }
 
-class _NewUserPageState extends State<enterTemperature> {
+class _NewUserPageState extends State<CustomTemperature> {
 
   TextEditingController tempController = TextEditingController();
   List<bool> _list = [true,false];

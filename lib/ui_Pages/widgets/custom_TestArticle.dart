@@ -3,13 +3,13 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-class testArticle extends StatefulWidget {
+class CustomTestArticle extends StatefulWidget {
 
   @override
   _NewUserPageState createState() => _NewUserPageState();
 }
 
-class _NewUserPageState extends State<testArticle> {
+class _NewUserPageState extends State<CustomTestArticle> {
 
   TextEditingController searchController = TextEditingController();
 
